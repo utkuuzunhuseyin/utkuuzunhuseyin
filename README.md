@@ -3,14 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkuuzunhuseyin&label=Profile%20views&color=0e75b6&style=flat" alt="utkuuzunhuseyin" /> </p>
 
-<p align="left"> <a href="https://twitter.com/utkuuzunhuseyin" target="blank"><img src="https://img.shields.io/twitter/follow/utkuuzunhuseyin?logo=twitter&style=for-the-badge" alt="utkuuzunhuseyin" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@utkuuzunhuseyin](https://medium.com/@utkuuzunhuseyin)
+- 📝 I regularly write articles on [[https://medium.com/@utkuuzunhuseyin](https://medium.com/@utku.uzunhuseyin)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/utkuuzunhuseyin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkuuzunhuseyin" height="30" width="40" /></a>
-<a href="https://medium.com/@utkuuzunhuseyin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="utkuuzunhuseyin" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/utkuuzunhuseyin](https://www.linkedin.com/in/utku-uzunhuseyin/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkuuzunhuseyin" height="30" width="40" /></a>
+<a href="[https://medium.com/@utkuuzunhuseyin](https://medium.com/@utku.uzunhuseyin)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="utkuuzunhuseyin" height="30" width="40" /></a>
 <a href="https://discord.gg/yourdiscordlink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="utkuuzunhuseyin" height="30" width="40" /></a>
 </p>
 
