@@ -5,9 +5,6 @@
   📫 <strong>Email:</strong> <a href="mailto:utku.uzunhuseyin@gmail.com">utku.uzunhuseyin@gmail.com</a>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=utkuuzunhuseyin&label=Profile%20views&color=0e75b6&style=flat" alt="utkuuzunhuseyin" /> 
-</p>
 
 <br/>
 
