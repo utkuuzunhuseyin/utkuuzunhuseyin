@@ -44,17 +44,15 @@
 
 <h3 align="center">GitHub Stats:</h3>
 
-<div align="center">
-  <a href="https://github.com/utkuuzunhuseyin">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkuuzunhuseyin&show_icons=true&locale=en&layout=compact" alt="Top Langs" height="180" />
-  </a>
-  &nbsp; &nbsp; <a href="https://github.com/utkuuzunhuseyin">
-    <img src="https://github-readme-stats.vercel.app/api?username=utkuuzunhuseyin&show_icons=true&locale=en" alt="GitHub Stats" height="180" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkuuzunhuseyin&theme=dracula" alt="Profile Details" />
+</p>
 
-<br/> <div align="center">
-  <a href="https://github.com/utkuuzunhuseyin">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkuuzunhuseyin&" alt="GitHub Streak" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=utkuuzunhuseyin&theme=dracula" alt="Most Commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkuuzunhuseyin&theme=dracula&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utkuuzunhuseyin&theme=dracula" alt="Repos per Language" />
+</p>
