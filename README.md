@@ -44,14 +44,20 @@
 
 ### GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkuuzunhuseyin&show_icons=true&locale=en&layout=compact" alt="utkuuzunhuseyin" />
+<p align="center">
+  <a href="https://github.com/utkuuzunhuseyin">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkuuzunhuseyin&show_icons=true&locale=en&layout=compact" alt="utkuuzunhuseyin" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkuuzunhuseyin&show_icons=true&locale=en" alt="utkuuzunhuseyin" />
+  <a href="https://github.com/utkuuzunhuseyin">
+    <img src="https://github-readme-stats.vercel.app/api?username=utkuuzunhuseyin&show_icons=true&locale=en" alt="utkuuzunhuseyin" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkuuzunhuseyin&" alt="utkuuzunhuseyin" />
+  <a href="https://github.com/utkuuzunhuseyin">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkuuzunhuseyin&" alt="utkuuzunhuseyin" />
+  </a>
 </p>
