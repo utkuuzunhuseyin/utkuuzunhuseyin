@@ -42,17 +42,24 @@
 
 ---
 
-<h3 align="center">GitHub Stats:</h3>
+<h3 align="center">Analytics & Activity</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkuuzunhuseyin&theme=dracula" alt="Profile Details" />
+  <a href="https://github.com/utkuuzunhuseyin">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkuuzunhuseyin&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=utkuuzunhuseyin&theme=dracula" alt="Most Commits" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkuuzunhuseyin&theme=dracula&hide_border=true" alt="Streak" />
-</p>
+<div align="center">
+  
+  <a href="https://github.com/utkuuzunhuseyin">
+    <img src="https://github-profile-trophy.vercel.app/?username=utkuuzunhuseyin&theme=gitdimmed&no-frame=true&margin-w=15&margin-h=15&column=4" alt="trophy" />
+  </a>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utkuuzunhuseyin&theme=dracula" alt="Repos per Language" />
-</p>
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkuuzunhuseyin&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" height="160" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkuuzunhuseyin&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" height="160" />
+
+</div>
