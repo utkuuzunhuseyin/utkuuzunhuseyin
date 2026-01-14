@@ -2,12 +2,6 @@
 <h3 align="center">Cloud & DevOps Engineer from Turkey</h3>
 
 <p align="center">
-  <a href="mailto:utku.uzunhuseyin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
   📫 <strong>Email:</strong> <a href="mailto:utku.uzunhuseyin@gmail.com">utku.uzunhuseyin@gmail.com</a>
 </p>
 
@@ -23,6 +17,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/utku-uzunhüseyin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkuuzunhuseyin" height="30" width="40" /></a>
 <a href="https://medium.com/@utku.uzunhuseyin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="utkuuzunhuseyin" height="30" width="40" /></a>
+<a href="mailto:utku.uzunhuseyin@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
